@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GridView and ArrayAdapter</string>
+    <string name="select">Выбрать…</string>
 </resources>
